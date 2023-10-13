@@ -28,4 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsharma&show_icons=true&locale=en" alt="rohitsharma" /></p>
 
+[![An image of @rohitsharmaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitsharmaa)](https://holopin.io/@rohitsharmaa)
+
 
