@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">Highly motivated individual with keen interest in learning new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/69/69c1c6c137eba3d2b856635c51bedb5e_w200.gif">
