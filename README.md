@@ -1,8 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">Highly motivated individual with keen interest in learning new technologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/69/69c1c6c137eba3d2b856635c51bedb5e_w200.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-sharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-sharmaa" /> </p>
+
+
+
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rohit-sharmaa&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)" alt="rohit-sharmaa" /> </p>
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
