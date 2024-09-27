@@ -6,7 +6,10 @@
 
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rohit-sharmaa&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)" alt="rohit-sharmaa" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=rohit-sharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-sharmaa" />
+</p>
+
 
 - 🔭 I’m currently working on **Problem Solving Skills**
 
